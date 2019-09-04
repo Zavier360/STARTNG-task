@@ -1,5 +1,13 @@
-#top {background-image: url(../img/computer2.jpg);
-    margin: 5%;}
-    .introduction {color: darkred}
-    .jobs{color: navy}
+
+    
+    body {
+        border: 2px solid black;
+    }
+    .introduction {color: maroon}
+    .jobs{color:rgb(254, 255, 192)}
+    #top {background-image: url(../img/computer2.jpg);
+        margin: 5%;}
+        .jobs{color: navy}
+        .contact-btn{background-color: black;}
+        
     
