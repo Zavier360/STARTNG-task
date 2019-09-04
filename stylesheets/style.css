@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #top {background-image: url(../img/people.jpg);
 margin: 5%;
 }
@@ -7,3 +8,10 @@ body {
 }
 .introduction {color: darkred}
 .jobs{color:pink}
+=======
+#top {background-image: url(../img/computer2.jpg);
+    margin: 5%;}
+    .introduction {color: darkred}
+    .jobs{color: navy}
+    
+>>>>>>> task3
