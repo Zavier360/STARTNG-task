@@ -6,6 +6,7 @@
     .introduction {color: maroon}
     .jobs{color:rgb(254, 255, 192)}
     #top {background-image: url(https://res.cloudinary.com/okuofuemma/image/upload/v1567688960/computer2_tqksa2.jpg);
+        background-color: black;
         margin: 5%;}
         .jobs{color: navy}
         .contact-btn{background-color: black;}
