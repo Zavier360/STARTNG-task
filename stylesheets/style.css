@@ -5,7 +5,7 @@
     }
     .introduction {color: maroon}
     .jobs{color:rgb(254, 255, 192)}
-    #top {background-image: url(../img/computer2.jpg);
+    #top {background-image: url(https://res.cloudinary.com/okuofuemma/image/upload/v1567688960/computer2_tqksa2.jpg);
         margin: 5%;}
         .jobs{color: navy}
         .contact-btn{background-color: black;}
